@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|solutionrelative:cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\iuploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|solutionrelative:cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\iuploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.application\\cloudstoragetest.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|solutionrelative:cloudstoragetest.application\\cloudstoragetest.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37DE7899-5579-424B-A171-C0B2691B1CB0}|CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.infrastructure\\cloudstoragetest.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{37DE7899-5579-424B-A171-C0B2691B1CB0}|CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj|solutionrelative:cloudstoragetest.infrastructure\\cloudstoragetest.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -11,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{37DE7899-5579-424B-A171-C0B2691B1CB0}|CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj|solutionrelative:cloudstoragetest.infrastructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|solutionrelative:cloudstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1747ED16-777B-4A4D-8391-32B5C5E29D98}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|solutionrelative:cloudstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|solutionrelative:cloudstoragetest.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A0A6E8-FA11-4749-9AB0-AC775C77075C}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|c:\\users\\cleberson teodoro\\documents\\storagegoogle\\cloudstoragetest\\cloudstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141A8E8A-9920-48E2-BECE-AAE97EEFFCA0}|CloudStorageTest.Domain\\CloudStorageTest.Domain.csproj|solutionrelative:cloudstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GoogleDriveStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
-              "RelativeDocumentMoniker": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
-              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
-              "RelativeToolTip": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "DocumentIndex": 3,
+              "Title": "IUploadProfilePhotoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "RelativeToolTip": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T01:24:30.347Z",
+              "WhenOpened": "2024-03-14T02:54:46.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\appsettings.Development.json",
+              "RelativeToolTip": "CloudStorageTest.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T02:50:24.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Program.cs",
+              "RelativeToolTip": "CloudStorageTest.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwA4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:43:20.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloudStorageTest.Application",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+              "RelativeDocumentMoniker": "CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+              "RelativeToolTip": "CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T02:41:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CloudStorageTest.Infrastructure",
               "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
               "RelativeDocumentMoniker": "CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
               "RelativeToolTip": "CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-14T01:23:51.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "UploadProfilePhotoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeToolTip": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:52:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:45:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleDriveStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeToolTip": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:24:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CloudStorageTest.Domain\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Domain\\Entities\\User.cs",
               "RelativeToolTip": "CloudStorageTest.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T01:19:48.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IStorageService.cs",
               "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Domain\\Storage\\IStorageService.cs",
               "RelativeDocumentMoniker": "CloudStorageTest.Domain\\Storage\\IStorageService.cs",
@@ -86,32 +180,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T01:18:51.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UploadProfilePhotoUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
-              "RelativeDocumentMoniker": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
-              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
-              "RelativeToolTip": "CloudStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T00:52:48.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StorageController.cs",
-              "DocumentMoniker": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
-              "RelativeDocumentMoniker": "CloudStorageTest.API\\Controllers\\StorageController.cs",
-              "ToolTip": "C:\\Users\\Cleberson Teodoro\\Documents\\StorageGoogle\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
-              "RelativeToolTip": "CloudStorageTest.API\\Controllers\\StorageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T00:45:24.976Z",
               "EditorCaption": ""
             }
           ]

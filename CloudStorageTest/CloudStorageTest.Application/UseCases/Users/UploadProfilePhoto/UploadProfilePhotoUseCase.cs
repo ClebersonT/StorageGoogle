@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 
 namespace CloudStorageTest.Application.UseCases.Users.UploadProfilePhoto;
 
-public class UploadProfilePhotoUseCase
+public class UploadProfilePhotoUseCase : IUploadProfilePhotoUseCase
 {
     private readonly IStorageService _storageService;
 
@@ -36,7 +36,9 @@ public class UploadProfilePhotoUseCase
         {
             Id = 1,
             Name = "Cleberson",
-            Email = "clebersondevdotnet@gmail.com"
+            Email = "clebersondevdotnet@gmail.com",
+            RefreshToken = "Test",
+            AccessToken = "Test"
         };
     }
 }
